@@ -12,4 +12,4 @@ jobs:
         uses: SecureHats/validate-detections@v2
         with:
           filesPath: ${GITHUB_WORKSPACE}
-          logLevel: Normal
+          logLevel: Detailed
